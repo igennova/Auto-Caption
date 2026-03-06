@@ -4,6 +4,11 @@ A desktop app that auto-generates captions for your videos using OpenAI Whisper 
 
 ## Demo
 
+
+
+https://github.com/user-attachments/assets/0ea5bd97-fbab-4b05-b5d9-42c6ada211a3
+
+
 ## What It Does
 
 - Import any video (mp4, mkv, avi, mov)
